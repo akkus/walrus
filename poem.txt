@@ -1,0 +1,6 @@
+Poem on Git
+
+When I am in class, git comes to me knowing doors
+When I am out, not sure what will happen.
+
+
