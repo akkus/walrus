@@ -1,7 +1,7 @@
 Poem on Git
 
 When I am in class, git comes to me knowing doors
-When I am out, not sure what will happen.
+When I am out of the class, not sure what will happen.
 
 So my Source Trees, may be Git is the way to go
 
@@ -10,4 +10,5 @@ Not sure which way to go...
 
 Organization changes, People changes....
 Software changes, Source control changes...
+Devices Changes...
 
